@@ -1,4 +1,4 @@
-# **Custom build of st terminal from [suckless.org](st.suckless.org) by A7MED**
+# **Custom build of st terminal from [suckless.org](http://st.suckless.org) by A7MED**
 
 ---
 ## **Applied patches**
