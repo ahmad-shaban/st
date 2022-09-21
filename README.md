@@ -23,20 +23,20 @@
 ## **How to build**
 ### **Install dependencies**
 * #### **Debian**
-  ```bash
+  ```
   sudo apt install libx11-dev libxft-dev
   ```
 * #### **Fedora**
-  ```bash
+  ```
   sudo dnf install libx11-devel libxft-devel
   ```
 * #### **Arch**
-  ```bash
+  ```
   sudo pacman -S libx11 libxft
   ```
   
 ### Clone the repo and start building
-```bash
+```
 git clone https://github.com/ahmed0124/st.git
 cd st
 sudo make clean install
