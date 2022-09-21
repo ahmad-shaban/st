@@ -23,15 +23,15 @@
 ## **How to build**
 ### **Install dependencies**
 * #### **Debian**
-  ```
+  ```bash
   sudo apt install libx11-dev libxft-dev
   ```
 * #### **Fedora**
   ```
-  sudo dnf install libx11-devel libxft-devel
+  sudo dnf install libX11-devel libXft-devel
   ```
 * #### **Arch**
-  ```
+  ```bash
   sudo pacman -S libx11 libxft
   ```
   
