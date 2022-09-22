@@ -42,7 +42,7 @@ cd st
 sudo make clean install
 ```
 
-Now it should be installed on your system and you can run it from command line. You may want to write a st.desktop file and put it on `/usr/share/applications` to make st appear in your applications menu. Here is an examble of the contents of that file
+Now it should be installed on your system and you can run it from command line. You may want to write a `st.desktop` file and put it on `/usr/share/applications` to make st appear in your applications menu. Here is an examble of the contents of that file
 ```
 [Desktop Entry]
 Name=st
