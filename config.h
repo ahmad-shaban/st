@@ -15,9 +15,9 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Fira Code:pixelsize=22:antialias=true:autohint=true";
+static char *font = "Fira Code:pixelsize=20:antialias=true:autohint=true";
 static char *font2[] = { 
-    "Symbola:pixelsize=22:antialias=true:autohint=true",
+    "Symbola:pixelsize=20:antialias=true:autohint=true",
 };
 static int borderpx = 2;
 
