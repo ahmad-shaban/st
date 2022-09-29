@@ -17,7 +17,7 @@
 * #### blinkingcursor
 
 * ### I also added a custom colorscheme
-* ### Used fonts are `Hack` and `Symbola`
+* ### Used fonts are `Fira Code` and `Symbola`
 
 ---
 ## **How to build**
