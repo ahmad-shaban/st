@@ -17,6 +17,7 @@
  */
 static char *font = "Fira Code:pixelsize=20:antialias=true:autohint=true";
 static char *font2[] = { 
+    "Hack:pixelsize=20:antialias=true:autohint=true",
     "Symbola:pixelsize=20:antialias=true:autohint=true",
 };
 static int borderpx = 2;
