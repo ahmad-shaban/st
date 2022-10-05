@@ -53,4 +53,4 @@ Terminal=false
 Icon=terminal
 Exec=st
 ```
-if it still don't appear on your apps menu, restart your pc and it should appear
+if it still doesn't appear on your apps menu, restart your pc and it should appear
