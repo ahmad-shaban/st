@@ -15,6 +15,7 @@
 * #### defaultfontsize
 * #### vertcenter
 * #### blinkingcursor
+* #### bold-is-not-bright
 
 * ### I also added a custom colorscheme
 * ### Used fonts are `Fira Code` and `Symbola`
