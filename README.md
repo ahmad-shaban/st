@@ -16,6 +16,7 @@
 * #### vertcenter
 * #### blinkingcursor
 * #### bold-is-not-bright
+* #### colors-at-launch
 
 * ### I also added a custom colorscheme
 * ### Used fonts are `Fira Code` and `Symbola`
